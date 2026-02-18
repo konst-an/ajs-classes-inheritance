@@ -12,5 +12,5 @@ test('Правильно создается объект', () => {
       defence: 25,
     };
 
-    expect(bowerman).toEqual(correct);
+    expect(bowman).toEqual(correct);
 });
